@@ -7,6 +7,5 @@ O projeto demonstra conceitos básicos de animação, movimentação, colisão e
 
 ## 🎥 Demonstração
 
-![Demonstração do programa]
 ![resultado](https://github.com/user-attachments/assets/6130bbad-ec03-418b-8cba-ed22655a7065)
 
